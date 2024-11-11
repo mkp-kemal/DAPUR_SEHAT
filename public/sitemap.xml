@@ -7,22 +7,4 @@
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
-
-    <!-- Example page -->
-    <url>
-        <loc>https://dapursehat.vercel.app/tentang</loc>
-        <lastmod>2024-11-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Another example page -->
-    <url>
-        <loc>https://dapursehat.vercel.app/kontak</loc>
-        <lastmod>2024-11-10</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <!-- Add additional pages as needed -->
 </urlset>
